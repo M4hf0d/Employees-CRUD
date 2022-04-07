@@ -11,3 +11,7 @@ Content Discussed :
 ```
 $ git clone https://github.com/M4hf0d/Employees-CRUD.git
 ```
+## Screenshots
+
+![App Screenshot](https://ibb.co/3RGyn3p)
+
