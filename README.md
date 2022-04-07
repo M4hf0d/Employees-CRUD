@@ -13,5 +13,4 @@ $ git clone https://github.com/M4hf0d/Employees-CRUD.git
 ```
 ## Screenshots
 
-![App Screenshot](https://ibb.co/3RGyn3p)
-
+<a href="https://ibb.co/3RGyn3p"><img src="https://i.ibb.co/3RGyn3p/Shared-Screenshot.jpg" alt="Shared-Screenshot" border="0"></a>
