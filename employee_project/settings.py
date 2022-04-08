@@ -79,9 +79,9 @@ WSGI_APPLICATION = 'employee_project.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'EmployeeDB',
-        'USER': 'postgres',
-        'PASSWORD': '100%posterR',
+        'NAME': 'EmployeeDB', #db name
+        'USER': 'postgres', #db username
+        'PASSWORD': 'postgres', #db password
         'HOST': 'localhost',
     }
 }
